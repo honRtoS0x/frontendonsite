@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 30px;
+    background-color: #eeeeee;
+    color: #222222;
+    font-family: 'Times New Roman';
+}
+h1 {
+    font-size: 30px;
+}
+.cards {
+    margin-top: 30px;
+}
+.card {
+    display: inline-block;
+    vertical-align: top;
+    width: 240px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 2px solid #222222;
+    background-color: white;
+}
+.content {
+    box-sizing: content-box;
+}
+.border {
+    box-sizing: border-box;
+}
+span {
+    color: blueviolet;
+    font-size: 26px;
+    font-weight: bold;
+}
+h2 {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+button {
+    margin-top: 10px;
+    padding: 10px 15px;
+    background-color: aqua;
+    color: white;
+    font-size: 16px;
+}
